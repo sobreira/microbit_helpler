@@ -1,6 +1,6 @@
 # micro:bit for Scratch Extension
 from microbit import *
-
+# import music
 import music
 
 REFRESH = 100
